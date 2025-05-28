@@ -20,6 +20,9 @@ A curated list of awesome Python frameworks, libraries, software, and resources,
 * [Automation & Scripting](#automation--scripting)
 * [Databases](#databases)
 * [Testing](#testing)
+* [Miscellaneous](#miscellaneous)
+    * [Asynchronous Programming](#asynchronous-programming)
+    * [Images](#images)
 * [Development Tools](#development-tools)
     * [Code Quality & Formatting](#code-quality--formatting)
     * [Environment Management](#environment-management)
@@ -144,6 +147,23 @@ A curated list of awesome Python frameworks, libraries, software, and resources,
 * **[Coverage.py](https://coverage.readthedocs.io/en/latest/)**: Measures code coverage, typically during test execution.
 * **[Factory Boy](https://factoryboy.readthedocs.io/en/stable/)**: A fixtures replacement for Python, used for generating fake data for tests.
 * **[PyHamcrest](https://pyhamcrest.readthedocs.io/en/latest/)**: A framework for writing matcher objects, allowing you to create flexible assertions in your tests.
+
+## Miscellaneous
+
+### Asynchronous Programming
+
+* **[asyncio](https://docs.python.org/3/library/asyncio.html)**: Python's built-in library for writing concurrent code using the async/await syntax.
+* **[Aiohttp](https://docs.aiohttp.org/en/stable/)**: An asynchronous HTTP client/server framework built on asyncio.
+* **[Celery](https://docs.celeryq.dev/en/stable/)**: An asynchronous task queue/job queue based on distributed message passing. Often used for handling background tasks in web applications.
+
+### Images
+
+* **[Pillow (PIL Fork)](https://python-pillow.org/)**: The friendly PIL (Python Imaging Library) fork, adding image processing capabilities, supporting many image file formats, and providing powerful image manipulation functions.
+* **[OpenCV-Python](https://opencv.org/)**: Official Python bindings for OpenCV, a highly optimized library for computer vision tasks including image and video analysis, object detection, and machine learning.
+* **[scikit-image](https://scikit-image.org/)**: A collection of algorithms for image processing, providing functions for segmentation, geometric transformations, feature detection, filtering, and more. Integrates well with NumPy arrays.
+* **[Wand](https://docs.wand-py.org/en/0.6.11/)**: A ctypes-based simple ImageMagick binding for Python. Provides a clean and powerful interface for image manipulation, similar to what you can do with ImageMagick command-line tools.
+* **[imgaug](https://imgaug.readthedocs.io/en/latest/)**: A library for image augmentation in machine learning experiments, supporting a wide range of augmentation techniques.
+
 
 ## Development Tools
 
