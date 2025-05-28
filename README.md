@@ -101,6 +101,8 @@ A curated list of awesome Python frameworks, libraries, software, and resources,
 * **[Kivy](https://kivy.org/)**: An open-source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. Cross-platform, including mobile.
 * **[PySide6](https://doc.qt.io/qtforpython/index.html)**: The official Python bindings for Qt, offering a permissive LGPL license compared to PyQt's GPL.
 * **[PySimpleGUI](http://www.pysimplegui.org/)**: A wrapper around Tkinter, Qt, WxPython, and Remi, designed to make GUI development extremely easy for beginners.
+* **[wxPython](https://wxpython.org/index.html)**: A Python wrapper for the wxWidgets C++ library, providing a set of Python bindings for the cross-platform GUI toolkit.
+* **[Flet](https://flet.dev/)**: Framework that enables developers to easily build realtime web, mobile and desktop apps in Python.
 
 ## Game Development
 
